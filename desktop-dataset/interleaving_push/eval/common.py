@@ -1,5 +1,5 @@
 PUSH_STRATEGY_JSON_FILENAMES = {
-        #"no_push": "nopush.json",
+        "no_push": "nopush.json",
         "push_critical": "push_critical.json"
 }
 
