@@ -1,10 +1,9 @@
 PUSH_STRATEGY_JSON_FILENAMES = {
-        "no_push": "nopush.json"
-        #"mobile_strategy": "mobile_strategy.json"
-        #"push_critical": "push_critical.json"
+        "no_push": "nopush.json",
+        "mobile_strategy": "mobile_strategy.json"
 }
 
-AVAILABLE_SITES = [
+AVAILABLE_SITES_2 = [
         #"nytimes",
         #"amazon"
         #"wikipedia"
@@ -15,11 +14,10 @@ AVAILABLE_SITES = [
         "apple"
 ]
 
-AVAILABLE_SITES_1 = [
+AVAILABLE_SITES = [
     "amazon",
     "apple",
     "chase",
-    #"nytimes",
     "paypal",
     "reddit",
     "wikipedia",
