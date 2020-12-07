@@ -25,6 +25,6 @@ python run_interleaving_eval.py --browsertime-dir /usr/local/lib/node_modules/br
 
 5. Each run would report speedIndex metrics, which were used for results.
 
-6. To run for a new website, first generate data by looking into ``` /interleaving_push/recordings/record_creation/how_to_run.txt ```.  Then proceed with from step 1.
+6. To run for a new website, first generate data by looking into ``` /interleaving_push/recordings/record_creation/how_to_run.txt ```.
 
 The python script for generating the mobile strategy is present in the same eval folder. ``` mobile-data/mobile-dataset/interleaving_push/eval/mobile_strategy.py ```. To generate the strategy for websites run ``` generate-mobile-strategy.sh ``` in same directory.  
