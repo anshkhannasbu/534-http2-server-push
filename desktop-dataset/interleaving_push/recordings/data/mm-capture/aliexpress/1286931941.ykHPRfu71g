@@ -1,0 +1,37 @@
+
+198.11.190.3ª"—	
+POST /service/um.json HTTP/1.1
+
+:authorityynuf.alipay.com
+content-length734v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36@
+content-type0application/x-www-form-urlencoded; charset=UTF-8
+accept*/*
+sec-fetch-site
+cross-site
+sec-fetch-modecors
+sec-fetch-destempty7
+referer,https://g.alicdn.com/alilog/oneplus/blk.html$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9ﬁdata=ENCODE~~V01~~eyJ4diI6IjMuMy43IiwieHQiOiI1UFJRR0FSWTBqOENBU1BCbVgwSjU4cVRuN1k5TEtCcyIsImV0ZiI6ImIiLCJ4YSI6ImFsaXl1bl9haWQiLCJzaXRlSWQiOiIiLCJ1aWQiOiIiLCJlbWwiOiJBQSIsImV0aWQiOiIiLCJlc2lkIjoiIiwidHlwZSI6InBjIiwibmNlIjp0cnVlLCJwbGF0IjoiTGludXgiLCJuYWNuIjoiTW96aWxsYSIsIm5hbiI6Ik5ldHNjYXBlIiwibmxnIjoiZW4tVVMiLCJzdyI6MTM2Niwic2giOjc2OCwic2F3IjoxMzY2LCJzYWgiOjc2OCwiYnN3IjowLCJic2giOjAsImV0eiI6MCwiZXR0IjoxNjA3MDc1NTYyMDEyLCJlY24iOiJkYWE4N2I0ZWNmZDQ0ZDJiNjAzNTEwNWRhOThjMzM4ODNkMzhhOWRiIiwiZXJkIjoiIiwiaXBzIjoiIiwiZXBsIjozLCJlcCI6IjJmYmY0YTBkMzQyMTRkNGZkZTZjYzhhMjI4OTdkMTE1YTc2Njc4MTEiLCJlcGxzIjoiQzM3MGMzMDdmNGFjYTc4NTg0OTNkZmUzMjIyNTRlNWNiNDM4YmU5NDQsTjBmY2Q2ZTE4ZmY2ZGY3NGY5OGE2OThiN2Y2YjZkODM4YTZjMTFlNjkiLCJlc2wiOmZhbHNlfQ%3D%3D*•
+HTTP/1.1 200 OK%
+dateFri, 04 Dec 2020 09:52:45 GMT(
+content-typetext/plain;charset=UTF-8
+content-length48
+serverTengine.
+x-application-contextumid-web:cn-prod:70010
+access-control-allow-methodsGET,POST,OPTIONS(
+ access-control-allow-credentialstrueQ
+access-control-allow-headers1Accept,X-PINGARUNER,CONTENT-TYPE,X-Requested-With¨
+
+set-cookieùumdata_=G086CF924292A5E3571A8651577862138E0D763; Max-Age=31536000; Expires=Sat, 04-Dec-2021 09:52:45 GMT; Domain=ynuf.alipay.com; Path=/;SameSite=None;Secure
+p3pCP=IVAa PSAa!
+x-content-type-optionsnosniff!
+x-xss-protection1; mode=block?
+cache-control.no-cache, no-store, max-age=0, must-revalidate
+pragmano-cache
+expires0L
+strict-transport-security/max-age=31536000 ; includeSubDomains, max-age=02
+eagleeye-traceid0b14f4ca16070755654022849ecc8a
+timing-allow-origin*0{"id":"G086CF924292A5E3571A8651577862138E0D763"}

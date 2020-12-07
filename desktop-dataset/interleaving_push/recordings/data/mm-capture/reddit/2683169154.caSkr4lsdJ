@@ -1,0 +1,42 @@
+
+35.169.213.116»"á:
+YPOST /api/17/store/?sentry_key=177d07b389184ba588e6900125d7871d&sentry_version=7 HTTP/1.1"
+
+:authorityoops.redditmedia.com
+Hostoops.redditmedia.com
+
+Connection
+keep-alive
+Content-Length6946v
+
+User-AgenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36(
+Content-Typetext/plain;charset=UTF-8
+Accept*/*
+Sec-Fetch-Site
+cross-site
+Sec-Fetch-Modecors
+Sec-Fetch-Destempty"
+Refererhttps://www.reddit.com/$
+Accept-Encodinggzip, deflate, br!
+Accept-Languageen-US,en;q=0.9¢6{"exception":{"values":[{"type":"Error","value":"A","stacktrace":{"frames":[{"colno":7461,"filename":"https://www.redditstatic.com/accountmanager/sentry.b1646a345fd2bd0c245c.js","function":"XMLHttpRequest.r","in_app":true,"lineno":15},{"colno":15273,"filename":"https://www.redditstatic.com/accountmanager/sentry.b1646a345fd2bd0c245c.js","function":"XMLHttpRequest.<anonymous>","in_app":true,"lineno":1},{"colno":187,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"He._.k.Nb","in_app":true,"lineno":186},{"colno":212,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"He._.k.zc","in_app":true,"lineno":186},{"colno":245,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"Fe","in_app":true,"lineno":181},{"colno":210,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"Be","in_app":true,"lineno":179},{"colno":347,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"He._.k.dispatchEvent","in_app":true,"lineno":85},{"colno":200,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"uc","in_app":true,"lineno":87},{"colno":164,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"He.<anonymous>","in_app":true,"lineno":241},{"colno":24,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"?","in_app":true,"lineno":299},{"colno":138,"filename":"/_/gsi/_/js/k=gsi.gsi.en_US.Lw9U0GCXYzo.O/am=CQ/d=1/ct=zgms/rs=AF0KOtWcv31YhqlAJm36gUOWdoEpV5jZXA/m=gis_client_library","function":"Object._.ad","in_app":true,"lineno":109}]},"mechanism":{"handled":true,"type":"instrument","data":{"function":"onreadystatechange","handler":"bound "}}}]},"level":"error","event_id":"4215c510528d4aa387ef810c5970f475","platform":"javascript","sdk":{"name":"sentry.javascript.browser","packages":[{"name":"npm:@sentry/browser","version":"5.10.2"}],"version":"5.10.2","integrations":["InboundFilters","FunctionToString","TryCatch","Breadcrumbs","GlobalHandlers","LinkedErrors","UserAgent"]},"breadcrumbs":[{"timestamp":1607075394.37,"category":"ui.click","message":"button.AnimatedForm__submitButton.SubscribeButton[type=\"submit\"]"},{"timestamp":1607075394.623,"category":"xhr","data":{"method":"GET","url":"https://accounts.google.com/gsi/status?client_id=705819728788-b2c1kcs7tst3b7ghv7at0hkqmtc68ckl.apps.googleusercontent.com&as=0LWGM2vOcImvJ0hFDQ8Isw","status_code":400},"type":"http"},{"timestamp":1607075394.624,"category":"console","data":{"extra":{"arguments":["malformed JSON response:","<html lang=en><meta charset=utf-8><meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\"><title>Error 400 (Bad Request)!!1</title><style nonce=\"5rFPcBCm7bFcmYdhiTtYRw\">*{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{color:#222;text-align:unset;margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px;}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}pre{white-space:pre-wrap;}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}</style><div id=\"af-error-container\"><a href=//www.google.com><span id=logo aria-label=Google></span></a><p><b>400.</b> <ins>Thatâ€™s an error.</ins><p>The server cannot process the request because it is malformed. It should not be retried. <ins>Thatâ€™s all we know.</ins></div>"]},"logger":"console"},"level":"error","message":"malformed JSON response: <html lang=en><meta charset=utf-8><meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\"><title>Error 400 (Bad Request)!!1</title><style nonce=\"5rFPcBCm7bFcmYdhiTtYRw\">*{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{color:#222;text-align:unset;margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px;}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}pre{white-space:pre-wrap;}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}</style><div id=\"af-error-container\"><a href=//www.google.com><span id=logo aria-label=Google></span></a><p><b>400.</b> <ins>Thatâ€™s an error.</ins><p>The server cannot process the request because it is malformed. It should not be retried. <ins>Thatâ€™s all we know.</ins></div>"}],"request":{"url":"https://www.reddit.com/account/sso/one_tap/?experiment_d2x_sso_login_link=enabled&d2x_google_onetap=onetap_auto","headers":{"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"}},"extra":{"arguments":[{"type":"readystatechange","target":"[object XMLHttpRequest]","currentTarget":"[object XMLHttpRequest]","isTrusted":"[Circular ~]"}]}}*Ã
+HTTP/1.1 200 OKm
+Access-Control-Allow-HeadersMX-Sentry-Auth, X-Requested-With, Origin, Accept, Content-Type, Authentication8
+Access-Control-Allow-MethodsGET, POST, HEAD, OPTIONS5
+Access-Control-Allow-Originhttps://www.reddit.com<
+Access-Control-Expose-HeadersX-Sentry-Error, Retry-After
+Cache-Control	max-age=0
+Content-Languageen 
+Content-Typeapplication/json%
+DateFri, 04 Dec 2020 09:49:55 GMT(
+ExpiresFri, 04 Dec 2020 09:49:55 GMT.
+Last-ModifiedFri, 04 Dec 2020 09:49:55 GMT
+Servernginx/1.4.6 (Ubuntu)@
+Strict-Transport-Security#max-age=16070400; includeSubDomains
+VaryAccept-Language, Cookie!
+X-Content-Type-Optionsnosniff
+X-Frame-Optionsdeny!
+X-XSS-Protection1; mode=block
+Content-Length41
+
+Connection
+keep-alive){"id":"4215c510528d4aa387ef810c5970f475"}

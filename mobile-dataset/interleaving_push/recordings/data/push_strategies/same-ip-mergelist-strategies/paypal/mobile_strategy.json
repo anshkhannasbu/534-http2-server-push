@@ -1,0 +1,38 @@
+{
+    "h2o_custom_scheduler": [
+        {
+            "critical_css_file": "../../../css/paypal/critical.css", 
+            "hostname": "www.paypal.com", 
+            "offset_compressed": 0, 
+            "content_file": "../../../html/paypal/captured.html", 
+            "critical_push_streams": 0, 
+            "offset_index": 0, 
+            "index_trigger_path": "/us/home"
+        }
+    ], 
+    "push_configs": [
+        {
+            "push_host": "www.paypal.com", 
+            "push_trigger": "/us/home", 
+            "push_resources": [
+                "https://www.paypalobjects.com/marketing-resources/css/38/1151b4d93f50d98501fb0bac46e990e9ed069e.css", 
+                "https://www.paypalobjects.com/digitalassets/c/website/js/react-16_6_3-bundle.js", 
+                "https://www.paypalobjects.com/tagmgmt/bs-chunk.js", 
+                "https://www.paypalobjects.com/pa/js/min/pa.js", 
+                "https://www.paypalobjects.com/pa/mi/miconfig.js", 
+                "https://www.paypalobjects.com/pa/3pjs/qualtrics/1.30.0/OrchestratorMain.js", 
+                "https://www.paypalobjects.com/helpcenter/smartchat/sales/v1/open-chat.js", 
+                "https://www.paypalobjects.com/activation/js/marketingIntentsV2.js", 
+                "https://www.paypalobjects.com/marketing-resources/js/2d/a83ae933891c4622d71b9be587a1d37955b754.js", 
+                "https://www.paypalobjects.com/digitalassets/c/website/marketing/global/kui/js/opinionLab-2.1.0.js"
+            ]
+        }, 
+        {
+            "push_host": "www.paypalobjects.com", 
+            "push_trigger": "/pa/js/min/pa.js", 
+            "push_resources": [
+                "https://www.paypalobjects.com/pa/3pjs/qualtrics/1.30.0/CoreModule.js?Q_CLIENTVERSION=1.30.0&Q_CLIENTTYPE=hostedjs"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+
+172.217.214.91»"ê
+:POST /notifications_ajax?action_register_device=1 HTTP/1.1
+
+:authoritywww.youtube.com
+content-length147v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36T
+content-typeDmultipart/form-data; boundary=----WebKitFormBoundaryR9mYdWeG7hvNyN93
+accept*/*
+sec-fetch-sitesame-origin
+sec-fetch-modecors
+sec-fetch-destempty(
+refererhttps://www.youtube.com/sw.js$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9@
+cookie6VISITOR_INFO1_LIVE=aWdEK0SU4Js; GPS=1; YSC=EePuQpFRpKU“------WebKitFormBoundaryR9mYdWeG7hvNyN93
+Content-Disposition: form-data; name="permission"
+
+denied
+------WebKitFormBoundaryR9mYdWeG7hvNyN93--
+*º
+HTTP/1.1 400 Bad Request/
+content-typeapplication/json; charset=UTF-8!
+content-disposition
+attachment(
+expiresTue, 27 Apr 1971 19:44:06 GMT
+x-frame-options
+SAMEORIGIN!
+x-content-type-optionsnosniff
+cache-controlno-cache-
+strict-transport-securitymax-age=31536000
+content-length30%
+dateFri, 04 Dec 2020 09:53:40 GMT 
+serverYouTube Frontend Proxy
+x-xss-protection0{"errors":["Invalid Request"]}

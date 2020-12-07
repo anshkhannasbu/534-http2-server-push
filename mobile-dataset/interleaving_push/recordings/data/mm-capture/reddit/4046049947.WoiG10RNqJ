@@ -1,0 +1,29 @@
+
+151.101.1.140»"À
+!POST /timings/clientPerf HTTP/1.1
+
+:authoritywww.reddit.com
+content-length280•
+
+user-agent†Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4239.0 Mobile Safari/537.36 
+content-typeapplication/json
+accept*/*
+sec-fetch-sitesame-origin
+sec-fetch-modecors
+sec-fetch-destempty"
+refererhttps://www.reddit.com/$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9Ä
+cookie¹loid=000000000096hmo7os.2.1607181672000.Z0FBQUFBQmZ5NlZvYWtZREppZ0FnU1l5amEwR2FKZGVlTG41NV9SQWcwek1JN0g1OXcwN2Q5YU5QaU5rOTVlaW0wOEhkQXM1UnFqSXZVVFhMbU5YbFNxa2d5VEdwcGxuY2RQQUtmRVdKRm05dFBxVXJWUVJUa1c0a213YVZVc2JqWnNwcFRTdWdkdkE; token_v2=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDcxODUxNTIsInN1YiI6Ii1TRUplTXVvek5oc09zVVQwb2xTS3FGVHQ1T3ciLCJsb2dnZWRJbiI6ZmFsc2UsInNjb3BlcyI6WyIqIl19.fM3F3YRGX1Re4DYYr_WAuFENghfIuAheZ6wDkgHFG9k; csv=1; edgebucket=jucwZxUINs5nzQ1uXr; session_tracker=baopgqpillbcdecmrd.0.1607181674444.Z0FBQUFBQmZ5NlZxWGNiMXRueHQxMGV1dnc4clZOSVBLclhNWllONzR6ZUlaTXRyWmVaZ1JWM1IzR25uejZraVhxb2tCWWdkZXY3M19QWGZrWmVUMjUtaWFVTVBJTTJobzFLSjRXdWRvUWRia2hlT1hVeHZsSDF6N2xGWS1LcGRjWERTSkxIdnh2Tlg; session_tracker=baopgqpillbcdecmrd.0.1607181674365.Z0FBQUFBQmZ5NlZyeVlFb09kcUwzODBKVWRZcEtEMUNmTnlURXVxMVhfMl82MXJrSWk3RzVKTnZnRk5GVUhUaHZQVUlVcWlNRlBnbVhMV3VvSEJxSlJ4ZElDWHdQbFIyWUgxZk51eHl5UzRDbmlDMUFhbTdkX0xwU0FyTnBXU1haUUp2cktDTzB4a2o˜{"pageInfo":{"pageName":"index","shellRendered":true,"loggedIn":false,"dataFetched":true},"metrics":{"fetchStartToAppBooted":2186,"FirstContentfulPaint":2081,"TimeToFirstByte":1395,"FirstMeaningfulPaint":4310,"HtmlParse":4,"BootstrapJSONParse":4,"AppInitJSOnly":170},"perf":false}*‹
+HTTP/1.1 200 OKJ
+cache-control9private, s-maxage=0, max-age=0, must-revalidate, no-store)
+content-typetext/plain; charset=utf-8
+x-frame-options
+SAMEORIGIN
+accept-rangesbytes%
+dateSat, 05 Dec 2020 15:21:24 GMT
+via1.1 varnish
+varyAccept-EncodingI
+strict-transport-security,max-age=15552000; includeSubDomains; preload
+serversnooserv
+content-length2OK

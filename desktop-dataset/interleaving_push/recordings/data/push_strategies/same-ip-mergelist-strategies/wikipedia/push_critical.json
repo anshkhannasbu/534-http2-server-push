@@ -1,0 +1,27 @@
+{
+    "h2o_custom_scheduler":
+    [
+        {
+            "hostname":"en.wikipedia.org",
+            "index_trigger_path": "/wiki/Barack_Obama",
+            "content_file": "../../../html/wikipedia/captured.html",
+            "critical_css_file": "../../../css/wikipedia/critical.css",
+            "offset_index": 0,
+            "offset_compressed": 0,
+            "critical_push_streams": 0
+        }
+    ],
+    "push_configs":
+    [
+       {
+            "push_host": "en.wikipedia.org",
+            "push_trigger": "/wiki/Barack_Obama",
+            "push_resources": [
+                "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&only=styles&skin=vector",
+		"https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector",
+                "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector",
+		"https://en.wikipedia.org/w/load.php?lang=en&modules=jquery%2Coojs-ui-core%2Coojs-ui-widgets&skin=vector&version=1jwo0"
+            ]
+        }
+    ]
+}

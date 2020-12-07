@@ -1,0 +1,32 @@
+{
+    "h2o_custom_scheduler":
+    [
+        {
+            "hostname":"www.amazon.com",
+            "index_trigger_path": "/",
+            "content_file": "../../../html/amazon/captured.html",
+            "critical_css_file": "../../../css/amazon/critical.css",
+            "offset_index": 0,
+            "offset_compressed": 0,
+            "critical_push_streams": 0
+        }
+    ],
+    "push_configs":
+    [
+        {
+        "push_host": "www.amazon.com",
+        "push_trigger": "/",
+        "push_resources": [
+	    "https://images-na.ssl-images-amazon.com/images/I/11OrJUma5UL._RC%7C01rXlRztnIL.css,518LAhvV-ZL.css,31G79wH4wuL.css,01NtHviPbnL.css,11+5Zkv0+pL.css,01zAp95w-aL.css,310ooOGCdhL.css,11QGVsMZY5L.css,01i9N7e-hBL.css,11L1S2jwNNL.css,11q0gUgrRbL.css,01IdKcBuAdL.css,019pz6QNQ6L.css,01wLsDqViEL.css,21GP8+2BiiL.css,01gq5Ie9j3L.css,31hOkG7eemL.css,21qx45orewL.css,01894mlzXFL.css,21Y4ishyt3L.css,21MmFxB0r4L.css,11+zKfQDbkL.css,21F1dcMesjL.css,01mq--sv14L.css,01YhS3Cs-hL.css,31iHKyS-C2L.css,11knXPYlK7L.css,11mePezR1xL.css,11cxkUVyKEL.css,11X2-nh0PYL.css,01Rqw6O56CL.css,11Dg5X2FOfL.css,219ZFkJra2L.css,11B+lcExvIL.css,01vd5lqeZUL.css,21TLSwi5JJL.css,118ebQhvwiL.css,01890+Vwk8L.css,118QIcUXx2L.css,11Ty7A6HeXL.css,014n1hV6shL.css,11XscvGD69L.css,01cbS3UK11L.css,21IUjWKpUZL.css,01INc4pyFRL.css_.css?AUIClients/AmazonUI&tahdxy+a#mobile.us.page_type-GatewayPhoneWeb.not-trident.282109-T1.291927-T1.291924-T1.278290-T2",
+	    "https://images-na.ssl-images-amazon.com/images/I/41icwgAxVqL._RC%7C614O0vZoCgL.css,41VTPXnFBRL.css,01+72+wCC9L.css_.css?AUIClients/AmazonNavigationMobileMetaAsset&uEMxjH7Q#mobile",
+	    "https://images-na.ssl-images-amazon.com/images/I/21qulZZNYfL.css?AUIClients/RetailSearchAutocompleteAssets&uEMxjH7Q#mobile",
+	    "https://images-na.ssl-images-amazon.com/images/I/41WG1pW9XmL.css?AUIClients/GWMWebAssets&+zuRiqpR#291308-T1",
+	    "https://images-na.ssl-images-amazon.com/images/I/01mnPuiFP6L._RC%7C51NxDVHhzoL.js,01MyDk1J4OL.js,11Ph7I6W5tL.js_.js?AUIClients/GWMWebAssets&TrGjLTOZ#224016-T2.106965-T1",
+	    "https://images-na.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery",
+	    "https://images-na.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC%7C51lmx8oxgoL.js,11HZwqTrxmL.js,11giXtZCwVL.js,313Rm56PlzL.js,014VApivrFL.js,21NNXfMitSL.js,11KoZmq92cL.js,51iiAqMjUoL.js,11KhVGXGrhL.js,01Gpt4sPPhL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,61XzRSKsndL.js,31PiPBgPCPL.js,01Gf12ogmOL.js,31J9sEK3CtL.js,11EemQQsS-L.js,318o4Alo4OL.js,01qkmZhGmAL.js,01az6S7cXCL.js_.js?AUIClients/AmazonUI&xJaLt/bg#mobile.page_type-GatewayPhoneWeb.291927-T1.291924-T1",
+	    "https://images-na.ssl-images-amazon.com/images/I/41ObXqHJYmL._RC%7C41xlrjSZyZL.js,01CMyuQ8OQL.js,31odYvSoo1L.js_.js?AUIClients/AmazonNavigationMobileMetaAsset",
+	    "https://images-na.ssl-images-amazon.com/images/I/51LFyGPPpvL.js?AUIClients/RetailSearchAutocompleteAssets&uEMxjH7Q#mobile"
+                   ]
+        }
+    ]
+}

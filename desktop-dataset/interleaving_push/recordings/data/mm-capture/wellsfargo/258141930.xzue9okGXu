@@ -1,0 +1,38 @@
+
+52.43.153.251ª"ÿ
+4POST /event?d_dil_ver=9.3&_ts=1607075744881 HTTP/1.1)
+
+:authoritywellsfargobankna.demdex.net#
+Hostwellsfargobankna.demdex.net
+
+Connection
+keep-alive
+Content-Length491v
+
+User-AgenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.361
+Content-Type!application/x-www-form-urlencoded
+Accept*/*
+Sec-Fetch-Site
+cross-site
+Sec-Fetch-Modecors
+Sec-Fetch-Destempty&
+Refererhttps://www.wellsfargo.com/$
+Accept-Encodinggzip, deflate, br!
+Accept-Languageen-US,en;q=0.97
+Cookie-demdex=16997814538975482974135019223058116391Îd_mid=17011993760255324424138671698625434932&d_nsid=1&d_coop_unsafe=1&d_cid_ic=wfacookieidsync%011120201204015542258167593%011&d_ld=_ts%3D1607075744881&d_rtbd=json&d_jsonv=1&d_dst=1&c_app_id=WWW&c_wfacookie=1120201204015542258167593&c_page_type=BROWSER&c_page_id=en-desktop-cob&c_env_type=PRODUCTION&c_customer_type=&c_customer_status=n&c_zip_code=&c_lang_pref=EN&c_referrer=&c_hpp1_1=C_chk_challengergl_hpprimary_web&c_hpp1_2=C_ccd_cobrandhcom_hpprimary&c_hpp1_3=C_sav_wtosave_hpprimary_web*ê
+
+HTTP/1.1 200 OKb
+Cache-ControlQno-cache,no-store,must-revalidate,max-age=0,proxy-revalidate,no-transform,private.
+Content-Typeapplication/json;charset=utf-8[
+DCSTdcs-prod-usw2-v074-016d370a8.edge-usw2.demdex.com 5.80.1.20201111130852 7ms (+103ms)(
+ExpiresThu, 01 Jan 1970 00:00:00 GMTc
+P3P\policyref="/w3c/p3p.xml", CP="NOI NID CURa ADMa DEVa PSAa PSDa OUR SAMa BUS PUR COM NAV INT"
+Pragmano-cache¢
+
+Set-Cookieìdemdex=16997814538975482974135019223058116391;Path=/;Domain=.demdex.net;Expires=Wed, 02-Jun-2021 09:55:47 GMT;Max-Age=15552000;Secure;SameSite=None@
+Strict-Transport-Security#max-age=31536000; includeSubDomains
+X-TIDOc/dqQ3eQHY=
+Content-Length569
+
+Connection
+keep-aliveπ{"stuff":[{"cn":"ia-prod","cv":"id=13557818,14044838,18908741,20527000","ttl":30,"dmn":".nodomain.com"},{"cn":"ia-preprod","cv":"id=9255077","ttl":30,"dmn":".nodomain.com"},{"cn":"tnl-prod","cv":"id=9255077","ttl":30,"dmn":".nodomain.com"},{"cn":"tnl-qa","cv":"id=7196990","ttl":30,"dmn":".nodomain.com"}],"uuid":"16997814538975482974135019223058116391","dcs_region":9,"tid":"Oc/dqQ3eQHY=","ibs":[{"id":"60","ttl":14400,"tag":"img","fireURLSync":0,"syncOnPage":0,"url":["//idsync.rlcdn.com/365868.gif?partner_uid=16997814538975482974135019223058116391"]}],"dpcalls":[]}

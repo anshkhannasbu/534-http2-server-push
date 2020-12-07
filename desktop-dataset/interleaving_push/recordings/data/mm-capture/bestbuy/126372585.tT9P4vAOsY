@@ -1,0 +1,26 @@
+
+23.4.13.167»"»
+!POST /streams/v1/consume HTTP/1.1
+
+:authoritywww.bestbuy.com
+content-length524
+acceptapplication/jsonv
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 
+content-typeapplication/json
+sec-fetch-sitesame-origin
+sec-fetch-modecors
+sec-fetch-destempty1
+referer&https://www.bestbuy.com/?intl=nosplash$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9Î
+cookieÃUID=57087632-b63e-4033-bb6a-c5c2994a4741; pst2=613|N; physical_dma=652; customerZipCode=51501|N; ltc=%20; oid=1614123740; vt=ffa5fad3-3616-11eb-949a-0a15836abd87; bm_sz=5FD21E8C47484D635F374176E01DA1F3~YAAQRg3orJpsISR2AQAAUpguLQqXqiSbIy+cNBtiLNDthKf0nMQbl93rmNAu+NpBwe+nkebmtqvZs9rrzvfPiSsfa3mUjbzq1hK4tFjlWPyB6Zr5DSe/e/5+dXK7VOR5DYO14Mln3Wn+T97SshLqQPp3pUwI/N5qXuDr10NE1pR7/M+3LliULijHhZ2OgC9JFA==; bby_rdp=l; bby_cbc_lb=p-browse-e; intl_splash=false; CTT=3a77b5d48d5fb35349d6df63b3db599c; SID=313e68b3-c5a2-48bd-a098-1979c0adf225; rxVisitor=16070757974230FVDP6QCH19JK2BG7FKJ4P4M9IGDDK26; dtSa=-; dtLatC=43; optimizelyEndUserId=oeu1607075797692r0.40192139371248836; COM_TEST_FIX=2020-12-04T09:56:39.591Z; c6db37d7c8add47f1af93cf219c2c682=b2b044a14d2d0fa2c3ab8aacff898cd5; _abck=C1B6B8847613B54514D6D0C2C9CD749E~0~YAAQRg3orJ5sISR2AQAALa4uLQXwcCRFjn2y4dGvSQEN/iJ+SzAsT2TbQ1dVQ6jI/1ZzdSNrnbL6dtH1AUROjMbwhH0daoJm4kh/0Am7MG2Yop215rknnXQedHQa3UVDivqBgO11nUfq0i6r61937AeTm/EJqcFacVEZVTdTM0JyV3BL5g6TL3sFufQmoohF3aNLrzj8C7QmjgGSvxctN42c+neMvR2+erc4Iwl1xXBjhWa3D/03CYn2kREM2nuElzRcUDAcAhPA/I2XKIKKF/ZLDt7wlYI/4XimsvERefgDC+KaIGgyRjLAHCO2wXH1ODPKKZ5PYhWd/AO6lig00lrwAUz63Q8=~-1~||-1||~-1; bby_loc_lb=p-loc-e; locDestZip=67337; locStoreId=1401; sc-location-v2=%7B%22meta%22%3A%7B%22CreatedAt%22%3A%222020-12-04T09%3A56%3A42.683Z%22%2C%22ModifiedAt%22%3A%222020-12-04T09%3A56%3A42.991Z%22%2C%22ExpiresAt%22%3A%222021-12-04T09%3A56%3A42.991Z%22%7D%2C%22value%22%3A%22%7B%5C%22physical%5C%22%3A%7B%5C%22zipCode%5C%22%3A%5C%2267337%5C%22%2C%5C%22source%5C%22%3A%5C%22G%5C%22%2C%5C%22captureTime%5C%22%3A%5C%222020-12-04T09%3A56%3A42.682Z%5C%22%7D%2C%5C%22destination%5C%22%3A%7B%5C%22zipCode%5C%22%3A%5C%2267337%5C%22%7D%2C%5C%22store%5C%22%3A%7B%5C%22storeId%5C%22%3A1401%2C%5C%22zipCode%5C%22%3A%5C%2274055%5C%22%2C%5C%22storeHydratedCaptureTime%5C%22%3A%5C%222020-12-04T09%3A56%3A42.990Z%5C%22%7D%7D%22%7D; basketTimestamp=1607075803767; __gads=ID=2fd19d424c391e0d:T=1607075805:S=ALNI_MaBSoAeyGCgZyn1V6LZa1N7u0T20w; dtCookie=v_4_srv_8_sn_7SDQ91V73VVC740TOIMCLQ5LGR69GHRU_app-3A1b02c17e3de73d2a_1_ol_0_perc_100000_mul_1; rxvt=1607077609774|1607075797427; dtPC=8$275797412_531h-vTNDMDWRKMMJOSKBVFNOGNQDJTOOTRMPR-0e1; AMCVS_F6301253512D2BDB0A490D45%40AdobeOrg=1; AMCV_F6301253512D2BDB0A490D45%40AdobeOrg=1585540135%7CMCMID%7C62809807988986619984411781415712629863%7CMCAAMLH-1607680610%7C9%7CMCAAMB-1607680610%7CRKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y%7CMCOPTOUT-1607083010s%7CNONE%7CvVersion%7C4.4.0Œ{"eventType":"RECS_LOAD","epValue":"av-7.0,dr-cat00000,ds-mv,dupc1-0,enh-pof,opt-ctr,pc-3,plmt-ghp,rc-unified,rid-fMUQlx5rvVQ-iXsIdzbaaFq-4171418,s-l,srk-1,subplmt-be0c78f8-cc60-4414-aa27-058521107900,ctx-ZDptdl83LjAscDpnaHAscjowLHM6ZG90Y29tLWw=","skuList":"6366612,5706659,5199701,6428508,6429502,6402514,6215931,6377590,6258941,6420870,6009737,4659801,6423367,6373041,6364329","pageType":"browse,home","deviceClass":"l","visitorId":"ffa5fad3-3616-11eb-949a-0a15836abd87","eventUuid":"caacb75d-e547-412e-bd87-4ddcdd57ed23"}*È
+HTTP/1.1 200 OK
+content-length36.
+content-typeapplication/json;charset=UTF-8-
+strict-transport-securitymax-age=15768000„
+x-employmenttIf you are reading this, consider a job at BestBuy.com http://www.bestbuy-jobs.com/job-family/all-corporate-careers/(
+expiresFri, 04 Dec 2020 09:56:51 GMT.
+cache-controlmax-age=0, no-cache, no-store
+pragmano-cache%
+dateFri, 04 Dec 2020 09:56:51 GMT$ffa5fad3-3616-11eb-949a-0a15836abd87

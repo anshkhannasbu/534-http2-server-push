@@ -1,0 +1,36 @@
+{
+    "h2o_custom_scheduler":
+    [
+        {
+            "hostname":"www.apple.com",
+            "index_trigger_path": "/",
+            "content_file": "../../../html/apple/captured.html",
+            "critical_css_file": "../../../css/apple/critical.css",
+            "offset_index": 0,
+            "offset_compressed": 0,
+            "critical_push_streams": 0
+        }
+    ],
+    "push_configs":
+    [
+        {
+            "push_host": "www.apple.com",
+            "push_trigger": "/",
+            "push_resources": [
+		"https://www.apple.com/ac/globalnav/6/en_US/styles/ac-globalnav.built.css",
+		"https://www.apple.com/ac/localnav/5/styles/ac-localnav.built.css",
+		"https://www.apple.com/ac/globalfooter/6/en_US/styles/ac-globalfooter.built.css",
+		"https://www.apple.com/v/home/q/built/styles/main.built.css",
+		"https://www.apple.com/ac/ac-films/6.5.0/styles/modal.css",
+		"https://www.apple.com/wss/fonts?families=SF+Pro,v3|SF+Pro+Icons,v3",
+		"https://www.apple.com/v/home/q/built/scripts/head.built.js",
+		"https://www.apple.com/ac/globalnav/6/en_US/scripts/ac-globalnav.built.js",
+		"https://www.apple.com/ac/globalfooter/6/en_US/scripts/ac-globalfooter.built.js",
+		"https://www.apple.com/ac/ac-films/6.5.0/scripts/autofilms.built.js",
+		"https://www.apple.com/metrics/data-relay/1.1.4/scripts/data-relay.js",
+		"https://www.apple.com/metrics/data-relay/1.1.4/scripts/auto-relay.js"
+
+            ]
+        }
+    ]
+}

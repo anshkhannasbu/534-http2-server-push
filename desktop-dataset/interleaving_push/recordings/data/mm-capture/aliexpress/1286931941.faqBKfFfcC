@@ -1,0 +1,38 @@
+
+198.11.146.6ª"‚
+POST /service/um.json HTTP/1.1 
+
+:authorityus.ynuf.aliapp.org
+content-length582v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36@
+content-type0application/x-www-form-urlencoded; charset=UTF-8
+accept*/*
+sec-fetch-site
+cross-site
+sec-fetch-modecors
+sec-fetch-destempty&
+refererhttps://www.aliexpress.com/$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.95
+cookie+cbc=G98E44CA5EC1967ADD8CEDF8FDB82B16D63A80B∆data=106!SEhmc0clIx6cokdwHmHI4lxmYX%2BlT6sz5UamzLHtKj7U5xHYVLGxTKUU0%2BHtZ%2Fyj2bXvdc2iFJF9xU3CcQVj2T5KVMKaXqC0dGvWPtt7LGnv7VOlUIDItFTYpGj5eJPpG95zK1EVKyKGhZkyBcRtOJXafN%2FEBtP1cxh1O8rkysYJPf5im5FPsyXjXFMmuX%2FSP3ngFRFq07YJsHu1mGWCj8Vj6y%2FX4FUj6KUcF%2FiH5uNFGVl4%2FWLU6q8H6y%2FQ4uDjiuzcj3HLepb8xQIkfd5BckNCFK57HkU8W8lHWWiPKACafTloyQYelC0%2FuQdwH%2BETlw3j1wP5Tao7tCMei6LLucT%2FnQWtYQnLGVky41iBY6kMGs45CIdJqeiOSL7NLUf6hm5eE7J0Qf3jU%2BjZEIQ963UTd%2B6beSQ8tD2rqHBiUEMjmaugD6MZiUHrOH6T%2BEfrHfraySznQtMXyTdu7mTq4TuVkI4kL1TQG%2BeU%2FzdKk7RHCnFdMTwnkNmXv6DAokKEp6gZCMiLe0%3D%3D&xa=ctl&xt=*í
+HTTP/1.1 200 OK%
+dateFri, 04 Dec 2020 09:52:36 GMT(
+content-typetext/plain;charset=UTF-8
+content-length144.
+x-application-contextumid-web:us-prod:70010
+access-control-allow-methodsGET,POST,OPTIONS(
+ access-control-allow-credentialstrueQ
+access-control-allow-headers1Accept,X-PINGARUNER,CONTENT-TYPE,X-Requested-WithØ
+
+set-cookie†umdata_=G087C6C2DEDAB06F8CB269CC7FF26D82FE40404; Max-Age=31536000; Expires=Sat, 04-Dec-2021 09:52:36 GMT; Domain=us.ynuf.aliapp.org; Path=/;SameSite=None;Secure
+p3pCP=IVAa PSAa!
+x-content-type-optionsnosniff!
+x-xss-protection1; mode=block?
+cache-control.no-cache, no-store, max-age=0, must-revalidate
+pragmano-cache
+expires0L
+strict-transport-security/max-age=31536000 ; includeSubDomains, max-age=0
+serverTengine/Aserver2
+eagleeye-traceid0ab50f6116070755569827659e167a
+timing-allow-origin*ê{"tn":"T2gAFRhJptpWBGeyzjqiQx6AAAez0AxQRSbWQlLhfdleDLkEyd6VOJ_-0dMYHgrZJGn2nGlVcZ4Ir9NBxBw9b5cV","id":"G087C6C2DEDAB06F8CB269CC7FF26D82FE40404"}

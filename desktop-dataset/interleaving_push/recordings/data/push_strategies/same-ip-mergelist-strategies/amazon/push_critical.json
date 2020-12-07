@@ -1,0 +1,26 @@
+{
+    "h2o_custom_scheduler":
+    [
+        {
+            "hostname":"www.amazon.com",
+            "index_trigger_path": "/",
+            "content_file": "../../../html/amazon/captured.html",
+            "critical_css_file": "../../../css/amazon/critical.css",
+            "offset_index": 0,
+            "offset_compressed": 0,
+            "critical_push_streams": 0
+        }
+    ],
+    "push_configs":
+    [
+        {
+        "push_host": "www.amazon.com",
+        "push_trigger": "/",
+        "push_resources": [
+	    "https://images-na.ssl-images-amazon.com/images/I/11EIQ5IGqaL._RC%7C01ZTHTZObnL.css,4149ab8IFDL.css,31-i8YryGhL.css,017DsKjNQJL.css,013z33uKh2L.css,01zAp95w-aL.css,41EWOOlBJ9L.css,11UoGyLuXoL.css,01ElnPiDxWL.css,11QxHU4QYaL.css,01Sp8sB1HiL.css,01IdKcBuAdL.css,01y-XAlI+2L.css,21q5xjY8vXL.css,01K+Ps1DeEL.css,314djKvMsUL.css,21j0IlW7xKL.css,01ZTetsDh7L.css,11A7vR6GVPL.css,21-X6dl-cgL.css,11L58Qpo0GL.css,21kyTi1FabL.css,01ruG+gDPFL.css,01YhS3Cs-hL.css,31C80IiXalL.css,119wBQfnU9L.css,119I1lTJONL.css,11M4XwS6hxL.css,11WgRxUdJRL.css,019emucr87L.css,11JQtnL-6eL.css,11k89RclloL.css,11OxCoGkNYL.css,01QrWuRrZ-L.css,21pIv-yKhaL.css,11LyZ3b1QqL.css,01890+Vwk8L.css,11kwKGWmBfL.css,11F2+OBzLyL.css,01piEq-AdwL.css,11Z1a0FxSIL.css,01cbS3UK11L.css,21B5OR-vv2L.css,01giMEP+djL.css_.css?AUIClients/AmazonUI&hjPYCgVa#us.page_type-Gateway.not-trident.282109-T1.291928-T1.291922-T1.278290-T2",
+            "https://images-na.ssl-images-amazon.com/images/I/41icwgAxVqL._RC%7C71zdWAZEZGL.css,21qFIynv1ZL.css,31FX6DlOvlL.css,21lRUdwotiL.css,41oKRlyPnmL.css,11G4HxMtMSL.css,31OvHRW+XiL.css,01XHMOHpK1L.css,0126aJ6LvzL.css_.css?AUIClients/NavDesktopUberAsset&TCv9Dqcv#desktop.309131-T1.310484-T1",
+	    "https://images-na.ssl-images-amazon.com/images/I/41fr+NM7MEL.css?AUIClients/AmazonGatewayAuiAssets&/3eJPhjR#224544-T1"
+        ]
+        }
+    ]
+}

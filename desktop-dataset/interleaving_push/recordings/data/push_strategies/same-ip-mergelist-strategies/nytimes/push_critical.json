@@ -1,0 +1,30 @@
+{
+    "h2o_custom_scheduler":
+    [
+        {
+            "hostname":"www.nytimes.com",
+            "index_trigger_path": "/",
+            "content_file": "../../../html/nytimes/captured.html",
+            "critical_css_file": "../../../css/nytimes/critical.css",
+            "offset_index": 0,
+            "offset_compressed": 0,
+            "critical_push_streams": 0
+        }
+    ],
+    "push_configs":
+    [
+       {
+            "push_host": "www.nytimes.com",
+            "push_trigger": "/",
+            "push_resources": [
+		"https://g1.nyt.com/fonts/css/web-fonts.5810def60210a2fa7d0848f37e3fa048bb6147b1.css",
+		"https://www.nytimes.com/vi-assets/static-assets/global-69acc7c8fb6a313ed7e8641e4a88bf30.css",
+		"https://static01.nyt.com/video-static/vhs3/vhs.min.js",
+		"https://www.nytimes.com/vi-assets/static-assets/adslot-59486093f58a509b41ea.js",
+		"https://www.nytimes.com/vi-assets/static-assets/vendor-bdca107216e9fdda74c4.js",
+		"https://www.nytimes.com/vi-assets/static-assets/home-6bf106060a8f4c624c0b.js",
+		"https://www.nytimes.com/vi-assets/static-assets/main-7fb8a64fa318e1c54b6b.js"
+                       ]
+        }
+    ]
+}

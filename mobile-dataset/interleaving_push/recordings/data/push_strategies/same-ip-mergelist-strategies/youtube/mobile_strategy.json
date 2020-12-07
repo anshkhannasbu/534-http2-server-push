@@ -1,0 +1,29 @@
+{
+    "h2o_custom_scheduler": [
+        {
+            "critical_css_file": "../../../css/youtube/critical.css", 
+            "hostname": "www.youtube.com", 
+            "offset_compressed": 0, 
+            "content_file": "../../../html/youtube/captured.html", 
+            "critical_push_streams": 0, 
+            "offset_index": 0, 
+            "index_trigger_path": "/"
+        }
+    ], 
+    "push_configs": [
+        {
+            "push_host": "m.youtube.com", 
+            "push_trigger": "/", 
+            "push_resources": [
+                "https://www.youtube.com/pagead/paralleladview?ai=Cb3uisaXLX6GCNdH1nMwPxa2QqAEAAAAQASAAYMkGggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGoAwSqBBdP0KUnaqzfBcYjpz-0qaJSUjRD7o4P49IIAhABsAsBugsZCAIQBRgIIAYoAjADQAJIAGAAaABwAYgBAKAXAQ&sigh=zV2wrsh332w&cid=CAASFeRoGaRd8qGZNrdqKIkGMXfcg4tiAg&vt=0", 
+                "https://m.youtube.com/csi_204?v=2&s=youtube_mobile&action=home&yt_sts=n&yt_lt=cold&is_nav=1&csn=MC42NzA2NDQzMDY2MTM1NDEy&p=h2&t=tcp&yt_vis=1&pis=downloading&st=534&yt_fn=what_to_watch&c=MWEB&cver=2.20201202.04.01&yt_li=0&GetHome_rid=0x6294a5f2a2453590&rt=ai.3955,apr.3960,pdc.3968,pdr.3977,srt.832,fpt.1292,nreqs.621,nress.832,nrese.1115,ndnss.16,ndnse.213,ntcps.213,ntcpe.620,nstcps.414,ips.3993,ipc.4021,cpt.4022,vpl.4050,aft.4022,ps.4050", 
+                "https://m.youtube.com/s/player/408be03a/mobile-polymer-player-svg-ias-mweb-2x.css", 
+                "https://m.youtube.com/s/_/ytmweb/_/ss/k=ytmweb.c3_base.rx0E-HxX_qI.L.W.O/d=0/ct=zgms/rs=ABnK5FKqnQOpak6FZb0JGfCpVX_-6oyL9w", 
+                "https://m.youtube.com/static/r/ff9ea47a/fetch_polyfill.vflset/fetch_polyfill.js", 
+                "https://m.youtube.com/s/player/408be03a/player-plasma-ias-phone-en_US.vflset/base.js", 
+                "https://m.youtube.com/s/_/ytmweb/_/js/k=ytmweb.c3_base.en_US.xkRmf95Cpt8.O/d=1/ct=zgms/rs=ABnK5FJuOATb-14XIKo0SpIif0eUYOjXfg/m=c3_base", 
+                "https://m.youtube.com/s/_/ytmweb/_/js/k=ytmweb.c3_base.en_US.xkRmf95Cpt8.O/d=1/exm=c3_base/ed=1/ct=zgms/rs=ABnK5FJuOATb-14XIKo0SpIif0eUYOjXfg/m=mStfWe"
+            ]
+        }
+    ]
+}

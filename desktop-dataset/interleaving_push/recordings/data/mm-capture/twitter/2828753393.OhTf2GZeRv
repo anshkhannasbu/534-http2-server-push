@@ -1,0 +1,28 @@
+
+13.226.18.66ª"É
+POST /v1/open HTTP/1.1
+
+:authorityapi2.branch.io
+content-length311v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.361
+content-type!application/x-www-form-urlencoded
+accept*/*
+sec-fetch-site
+cross-site
+sec-fetch-modecors
+sec-fetch-destempty(
+refererhttps://twitter.com/ohohlfeld$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9∑browser_fingerprint_id=863344846619283383&sdk=web2.56.2&options=%7B%22tracking_disabled%22%3Afalse%2C%22nonce%22%3A%22NDdiN2E1ODktNGRjYS00NzU2LTkyNzAtMTI3MjJjNzVkYjY0%22%7D&current_url=https%3A%2F%2Ftwitter.com%2Fohohlfeld&screen_height=768&screen_width=1366&branch_key=key_live_knJAF6W45vSHVJiP0wn8figpqFePX59K*œ
+HTTP/1.1 200 OK 
+content-typeapplication/json
+content-length269 
+access-control-allow-origin*
+cache-controlno-cache%
+dateFri, 04 Dec 2020 09:54:38 GMTB
+x-branch-request-id+8c708e6c30454869a60d0268806bf673-2020120409
+x-cacheMiss from cloudfrontG
+via@1.1 bc779a771e58cc6656070a41635de578.cloudfront.net (CloudFront)
+x-amz-cf-popORD51-C2G
+x-amz-cf-id8L4XpjETh0ITPOsqwoh5wTLcBkgEhEYJ4xcV2k4Nfp5ZHN04vhV8BrA==ç{"session_id":"863344847745904465","identity_id":"863344847738166904","link":"https://twitter.app.link?%24identity_id=863344847738166904","data":"{\"+clicked_branch_link\":false,\"+is_first_session\":true}","browser_fingerprint_id":"863344846619283383","has_app":false}

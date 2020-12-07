@@ -1,0 +1,25 @@
+
+35.167.194.160»"Ï
+POST /v1/t HTTP/1.1
+
+:authorityapi.segment.io
+content-length1185v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+content-type
+text/plain
+accept*/*
+sec-fetch-site
+cross-site
+sec-fetch-modecors
+sec-fetch-destempty#
+refererhttps://edition.cnn.com/$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9¡	{"timestamp":"2020-12-04T09:50:24.680Z","integrations":{},"context":{"page":{"path":"/","referrer":"","search":"","title":"CNN International - Breaking News, US News, World News and Video","url":"https://edition.cnn.com"},"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36","locale":"en-US","library":{"name":"analytics.js","version":"4.0.4"}},"properties":{"canonicalUrl":"https://edition.cnn.com","sourceId":"section_intl_homepage1","versions":{"BUILD":"zion-suite@2.8.1","ANALYTICS":"zion-analytics@2.18.1","MESSAGE_BUS":"zion-messagebus@2.1.14","BRIDGE":"zion-bridge@2.2.14"},"__viewId":"8c9d53d9-f7f4-4150-865f-79b11d70b592","__sessionId":"989b7f64-063f-4ae3-b967-4d9c929599b8","__geoData":{"city":"council bluffs","state":"IA","zip":"51503","country":"US","continent":"NA","gmtOffset":"-600","connectionSpeed":"broadband"}},"event":"Pageview","messageId":"ajs-98be75df55097669e83403fed850f102","anonymousId":"4c1c6a0b-2fdf-4298-af42-817deb3c588b","type":"track","writeKey":"mXFw59FFEpUNOu3aeVJChKAsqAlZ4NEf","userId":null,"sentAt":"2020-12-04T09:50:24.689Z","_metadata":{"bundled":["Segment.io"],"unbundled":[]}}*—
+HTTP/1.1 200 OK%
+dateFri, 04 Dec 2020 09:50:28 GMT 
+content-typeapplication/json
+content-length21
+varyOrigin{
+  "success": true
+}

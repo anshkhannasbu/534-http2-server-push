@@ -1,0 +1,33 @@
+{
+    "h2o_custom_scheduler": [
+        {
+            "critical_css_file": "../../../css/chase/critical.css", 
+            "hostname": "www.chase.com", 
+            "offset_compressed": 0, 
+            "content_file": "../../../html/chase/captured.html", 
+            "critical_push_streams": 0, 
+            "offset_index": 0, 
+            "index_trigger_path": "/"
+        }
+    ], 
+    "push_configs": [
+        {
+            "push_host": "www.chase.com", 
+            "push_trigger": "/", 
+            "push_resources": [
+                "https://www.chase.com/content/chase-ux/en/structured/module/geoimage/ad-geo/_jcr_content/module.html", 
+                "https://www.chase.com/content/chase-ux/en/structured/module/carousel/carousel-single-images_alt/_jcr_content/module.html", 
+                "https://www.chase.com/content/chase-ux/en/structured/module/adtriplet/primary-triplet/_jcr_content/module.html", 
+                "https://www.chase.com/c/111820/etc/designs/chase-ux/css/home.min.css", 
+                "https://www.chase.com/c/111820/etc/designs/chase-ux/clientlibs/jquery/js/jquery.min.js", 
+                "https://www.chase.com/c/111820/etc/designs/chase-ux/clientlibs/require/js/require.min.js", 
+                "https://www.chase.com/etc/chase/appsconfig/clientconfig.js", 
+                "https://www.chase.com/c/111820/etc/designs/chase-ux/clientlibs/chase-ux/js/amd/carousel-home.js", 
+                "https://www.chase.com/c/111820/apps/chase/clientlibs/foundation/scripts/Reporting.js", 
+                "https://www.chase.com/apps/chase/clientlibs/foundation/tagmanagerextensions.js", 
+                "https://www.chase.com/apps/chase/clientlibs/foundation/scripts/Personalization.js", 
+                "https://www.chase.com/c/111820/etc/designs/chase-ux/clientlibs/chase-ux/js/dist/index.min.js"
+            ]
+        }
+    ]
+}

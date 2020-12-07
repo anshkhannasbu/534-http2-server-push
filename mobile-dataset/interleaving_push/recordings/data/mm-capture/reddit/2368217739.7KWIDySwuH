@@ -1,0 +1,31 @@
+
+52.204.250.248»"”
+
+`POST /v1?key=Mweb3&mac=3045f2f3fd5637cfb3fc5b19acec41bd50398a1308eab68e550fc225dbbc2e1b HTTP/1.1$
+
+:authorityevents.redditmedia.com
+Hostevents.redditmedia.com
+
+Connection
+keep-alive
+Content-Length697•
+
+User-Agent†Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4239.0 Mobile Safari/537.36
+Content-Type
+text/plain
+Accept*/*
+Sec-Fetch-Site
+cross-site
+Sec-Fetch-Modecors
+Sec-Fetch-Destempty"
+Refererhttps://www.reddit.com/$
+Accept-Encodinggzip, deflate, br!
+Accept-Languageen-US,en;q=0.9¹[{"event_topic":"screenview_events","event_type":"cs.screenview_mweb","event_ts":1607181669577,"uuid":"9654c60a-3b3e-430b-9f2f-8e04e6abeff9","payload":{"domain":"www.reddit.com","geoip_country":"US","user_agent":"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4239.0 Mobile Safari/537.36","base_url":"/","referrer_domain":"","referrer_url":"","language":"","dnt":false,"compact_view":true,"adblock":false,"session_id":"baopgqpillbcdecmrd","loid":"000000000096hmo7os","loid_created":1607181672000,"reddaid":null,"listing_name":"frontpage","target_type":"listing","target_sort":"hot","target_count":25,"app_name":"mweb2x","utc_offset":0}}]*¸
+HTTP/1.1 200 OK 
+Content-Typeapplication/json%
+DateSat, 05 Dec 2020 15:21:16 GMT)
+Warning299 - "API deprecated, use V2"
+Content-Length2
+
+Connection
+keep-alive{}

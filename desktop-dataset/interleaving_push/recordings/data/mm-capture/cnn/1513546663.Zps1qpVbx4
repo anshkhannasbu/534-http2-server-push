@@ -1,0 +1,27 @@
+
+52.0.133.252»"®
+"POST /bridge/v1/putRecord HTTP/1.1
+
+:authorityzion.api.cnn.io
+content-length108v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 
+content-typeapplication/json
+accept*/*
+sec-fetch-site
+cross-site
+sec-fetch-modecors
+sec-fetch-destempty#
+refererhttps://edition.cnn.com/$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9l{"id":"2FE5032F851589E7-60000693F4690D05","idtype":"adobe_vi","zaid":"4c1c6a0b-2fdf-4298-af42-817deb3c588b"}*ã
+HTTP/1.1 200 OK%
+dateFri, 04 Dec 2020 09:50:27 GMT 
+content-typeapplication/json
+content-length1338
+x-amzn-requestid$659a2ec1-8508-4b06-82b2-81f6795dc2f6 
+access-control-allow-origin*y
+access-control-allow-headersYX-Graphql-Query-Uuid,Content-Type,X-Amz-Date,Authorization,X-Api-Key,X-Amz-Security-Token"
+x-amz-apigw-idXBXvjGNvIAMFupA=0
+access-control-allow-methodsPOST,GET,OPTIONS;
+x-amzn-trace-id(Root=1-5fca0663-64f499d6663cd8da22d4e051…{"EncryptionType":"KMS","SequenceNumber":"49612457451603634162867000074844743368532156474070148770","ShardId":"shardId-000000000618"}

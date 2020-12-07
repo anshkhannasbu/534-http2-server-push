@@ -1,0 +1,29 @@
+
+52.204.250.248ª"ë'
+POST /v2j HTTP/1.1$
+
+:authorityevents.redditmedia.com
+Hostevents.redditmedia.com
+
+Connection
+keep-alive
+Content-Length4381^
+X-SignatureOkey=Mweb3, mac=d24fec03c99a2495b62c23c9a1421fb1b10dd7bacacef4261a15380a04152755ï
+
+User-AgentÜMozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4239.0 Mobile Safari/537.36 
+Content-Typeapplication/json
+Accept*/*
+Sec-Fetch-Site
+cross-site
+Sec-Fetch-Modecors
+Sec-Fetch-Destempty"
+Refererhttps://www.reddit.com/$
+Accept-Encodinggzip, deflate, br!
+Accept-Languageen-US,en;q=0.9ù"[{"app":{"name":"mweb"},"action_info":{"page_type":"home"},"platform":{"name":"android-mobile","device_name":"sm-g900p","os_name":"android","os_version":"5-0","browser_name":"chrome","browser_version":"86-0-4239-0"},"referrer":null,"request":{"user_agent":"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4239.0 Mobile Safari/537.36","domain":"www.reddit.com","canonical_url":"https://www.reddit.com/","base_url":"https://www.reddit.com/","reddaid":null},"session":{"id":"baopgqpillbcdecmrd","created_timestamp":1607181672321,"referrer_domain":null,"referrer_url":null},"user":{"id":"t2_96hmo7os","is_admin":null,"logged_in":false,"cookie_created_timestamp":1607181672000,"created_timestamp":null},"uuid":"6a3d8560-13b4-408b-9156-a557f0187f19","client_timestamp":1607181667120,"source":"experiment","action":"expose","noun":"user_id","experiment":{"id":904,"is_override":false,"name":"mweb_post_unit_redesign_v2","variant":"active","version":"12"}},{"app":{"name":"mweb"},"action_info":{"page_type":"home"},"platform":{"name":"android-mobile","device_name":"sm-g900p","os_name":"android","os_version":"5-0","browser_name":"chrome","browser_version":"86-0-4239-0"},"referrer":null,"request":{"user_agent":"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4239.0 Mobile Safari/537.36","domain":"www.reddit.com","canonical_url":"https://www.reddit.com/","base_url":"https://www.reddit.com/","reddaid":null},"session":{"id":"baopgqpillbcdecmrd","created_timestamp":1607181672321,"referrer_domain":null,"referrer_url":null},"user":{"id":"t2_96hmo7os","is_admin":null,"logged_in":false,"cookie_created_timestamp":1607181672000,"created_timestamp":null},"uuid":"2040c520-93e9-4db1-9ffc-a52405ef9b3b","client_timestamp":1607181667142,"source":"experiment","action":"expose","noun":"user_id","experiment":{"id":1298,"is_override":false,"name":"mweb_nps_survey_dismiss_post_trigger","variant":"enabled","version":"20"}},{"app":{"name":"mweb"},"action_info":{"page_type":"home"},"platform":{"name":"android-mobile","device_name":"sm-g900p","os_name":"android","os_version":"5-0","browser_name":"chrome","browser_version":"86-0-4239-0"},"referrer":null,"request":{"user_agent":"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4239.0 Mobile Safari/537.36","domain":"www.reddit.com","canonical_url":"https://www.reddit.com/","base_url":"https://www.reddit.com/","reddaid":null},"session":{"id":"baopgqpillbcdecmrd","created_timestamp":1607181672321,"referrer_domain":null,"referrer_url":null},"user":{"id":"t2_96hmo7os","is_admin":null,"logged_in":false,"cookie_created_timestamp":1607181672000,"created_timestamp":null},"uuid":"3bed25d4-3ac8-4b8b-8534-688d29660c4d","client_timestamp":1607181667259,"source":"experiment","action":"expose","noun":"user_id","experiment":{"id":1607,"is_override":false,"name":"mweb_global_leave_app","variant":"control_1","version":"1"}},{"source":"announcement","action":"view","noun":"announcement","uuid":"70864638-2166-4dd0-976c-741d78adfc66","client_timestamp":1607181667762,"screen":{"scroll_position":0,"theme":"default","view_type":"compact"},"app":{"name":"mweb"},"action_info":{"page_type":"home"},"platform":{"name":"android-mobile","device_name":"sm-g900p","os_name":"android","os_version":"5-0","browser_name":"chrome","browser_version":"86-0-4239-0"},"referrer":null,"request":{"user_agent":"Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4239.0 Mobile Safari/537.36","domain":"www.reddit.com","canonical_url":"https://www.reddit.com/","base_url":"https://www.reddit.com/","reddaid":null},"session":{"id":"baopgqpillbcdecmrd","created_timestamp":1607181672321,"referrer_domain":null,"referrer_url":null},"user":{"id":"t2_96hmo7os","is_admin":null,"logged_in":false,"cookie_created_timestamp":1607181672000,"created_timestamp":null},"user_subreddit":{"is_mod":null},"listing":{"depth":null,"length":0,"links":[],"old_sort":null,"sort":"hot","source":null},"live_thread":{"id":"162lvgx54gjpe","is_announcement":true},"announcement":{"id":"162lvgx54gjpe","title":"One week left for Secret Santa!","body":"Join 74,000+ redditors in Reddit‚Äôs favorite holiday tradition while you still can! Sign ups close Monday."}}]*ç
+HTTP/1.1 200 OK 
+Content-Typeapplication/json%
+DateSat, 05 Dec 2020 15:21:15 GMT
+Content-Length2
+
+Connection
+keep-alive{}

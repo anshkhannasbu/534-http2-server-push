@@ -1,0 +1,30 @@
+
+34.107.154.190»"¨
+POST /PageLoad HTTP/1.1
+
+:authoritytrkapi.impact.com
+content-length352v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 
+content-typeapplication/json
+accept*/*
+sec-fetch-site
+cross-site
+sec-fetch-modecors
+sec-fetch-destempty1
+referer&https://www.bestbuy.com/?intl=nosplash$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9à{"CampaignId":10014,"PageUrl":"https://www.bestbuy.com/?intl=nosplash","ReferringUrl":"","CustomProfileId":"ffa5fad3-3616-11eb-949a-0a15836abd87","CustomerId":"ffa5fad3-3616-11eb-949a-0a15836abd87","EventDate":"2020-12-04T09:56:54Z","UserAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36"}*
+HTTP/1.1 200 OKO
+cache-control>no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+pragmano-cache(
+expiresFri, 04 Dec 2020 09:56:55 GMTU
+p3pNpolicyref="/w3c/p3p.xml", CP="ALL BUS LEG DSP COR ADM CUR DEV PSA OUR NAV INT" 
+content-typeapplication/json
+content-length53%
+dateFri, 04 Dec 2020 09:56:55 GMT
+via
+1.1 google[
+
+set-cookieMGCLB=CO2t6daY6sa12gE; path=/; HttpOnly; expires=Fri, 04-Dec-2020 10:56:55 GMT
+alt-svcclear5{"clickId":"w95Tis0WnzIWTW5zE8S041xFUkE10gXB60000w0"}

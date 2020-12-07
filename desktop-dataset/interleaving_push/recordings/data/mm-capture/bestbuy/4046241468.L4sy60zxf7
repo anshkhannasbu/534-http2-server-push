@@ -1,0 +1,26 @@
+
+104.122.42.39»"û
+9POST /resources/54217f97aarn22099deb75f785c09980 HTTP/1.1
+
+:authoritywww.bestbuy.com
+content-length1633v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36(
+content-typetext/plain;charset=UTF-8
+accept*/*
+sec-fetch-sitesame-origin
+sec-fetch-modecors
+sec-fetch-destempty1
+referer&https://www.bestbuy.com/?intl=nosplash$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9¥	
+cookieš	UID=57087632-b63e-4033-bb6a-c5c2994a4741; pst2=613|N; physical_dma=652; customerZipCode=51501|N; ltc=%20; oid=1614123740; vt=ffa5fad3-3616-11eb-949a-0a15836abd87; _abck=C1B6B8847613B54514D6D0C2C9CD749E~-1~YAAQRg3orJtsISR2AQAAUpguLQUcPWQvcWGPxUC1WgNygznGg+eKC9Ou+ysvzLk0WPnWkigYL6ixkcTGiwQMyVFN9roOzplAVxwzqMnG5TjFwdAQ5mo/0h9d+6DhDB2TKfCvFVvoqp0USUUzuOadLH8EHUDQyz8ux9WR0MJh8tnbqTYXHHwsQJUOzx523EdP18ge4vQK99y9dX1sFb6flGAyNJJsRzwqQ6BuylAHNW3e+e8b5i/KgkWKEJn5MewHMmWoXYfKXo3ThxXEoA+m5XO4koYOndACQ+7R+u4r1SHOlJ2FwA/ptlCRuA==~-1~-1~-1; bm_sz=5FD21E8C47484D635F374176E01DA1F3~YAAQRg3orJpsISR2AQAAUpguLQqXqiSbIy+cNBtiLNDthKf0nMQbl93rmNAu+NpBwe+nkebmtqvZs9rrzvfPiSsfa3mUjbzq1hK4tFjlWPyB6Zr5DSe/e/5+dXK7VOR5DYO14Mln3Wn+T97SshLqQPp3pUwI/N5qXuDr10NE1pR7/M+3LliULijHhZ2OgC9JFA==; bby_rdp=l; bby_cbc_lb=p-browse-e; intl_splash=false; CTT=3a77b5d48d5fb35349d6df63b3db599c; SID=313e68b3-c5a2-48bd-a098-1979c0adf225; dtCookie=-20$7SDQ91V73VVC740TOIMCLQ5LGR69GHRU; rxVisitor=16070757974230FVDP6QCH19JK2BG7FKJ4P4M9IGDDK26; dtSa=-; dtLatC=43; rxvt=1607077597443|1607075797427; dtPC=-20$275797412_531h1vTNDMDWRKMMJOSKBVFNOGNQDJTOOTRMPR-0e1; optimizelyEndUserId=oeu1607075797692r0.40192139371248836á{"sensor_data":"7a74G7m23Vrp0o5c9116141.66-1,2,-94,-100,Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36,uaend,12147,20030107,en-US,Gecko,3,0,0,0,395416,5798857,1366,768,1366,768,1365,695,1365,,cpen:0,i1:0,dm:0,cwen:0,non:1,opc:0,fc:0,sc:0,wrc:1,isc:0,vib:1,bat:1,x11:0,x12:1,7574,0.608109272304,803537899428,0,loc:-1,2,-94,-101,do_en,dm_en,t_en-1,2,-94,-105,0,0,0,0,1487,231,0;0,-1,0,1,1627,1627,0;-1,2,-94,-102,0,0,0,0,1487,231,0;0,-1,0,1,1627,1627,0;-1,2,-94,-108,-1,2,-94,-110,-1,2,-94,-117,-1,2,-94,-111,0,83,-1,-1,-1;-1,2,-94,-109,0,83,-1,-1,-1,-1,-1,-1,-1,-1,-1;-1,2,-94,-114,-1,2,-94,-103,-1,2,-94,-112,https://www.bestbuy.com/?intl=nosplash-1,2,-94,-115,1,32,32,83,83,0,166,560,0,1607075798856,23,17192,0,0,2865,0,0,561,166,0,C1B6B8847613B54514D6D0C2C9CD749E~-1~YAAQRg3orJtsISR2AQAAUpguLQUcPWQvcWGPxUC1WgNygznGg+eKC9Ou+ysvzLk0WPnWkigYL6ixkcTGiwQMyVFN9roOzplAVxwzqMnG5TjFwdAQ5mo/0h9d+6DhDB2TKfCvFVvoqp0USUUzuOadLH8EHUDQyz8ux9WR0MJh8tnbqTYXHHwsQJUOzx523EdP18ge4vQK99y9dX1sFb6flGAyNJJsRzwqQ6BuylAHNW3e+e8b5i/KgkWKEJn5MewHMmWoXYfKXo3ThxXEoA+m5XO4koYOndACQ+7R+u4r1SHOlJ2FwA/ptlCRuA==~-1~-1~-1,30060,480,1127642520,30261689,PiZtE,58982,44-1,2,-94,-106,9,1-1,2,-94,-119,77,88,99,78,96,112,116,66,67,63,17,1097,794,206,-1,2,-94,-122,0,0,0,0,1,0,0-1,2,-94,-123,-1,2,-94,-124,-1,2,-94,-126,-1,2,-94,-127,20321144241322243122-1,2,-94,-70,825388683;750316212;dis;,7,8;true;true;true;0;true;24;24;true;false;-1-1,2,-94,-80,5337-1,2,-94,-116,1409121795-1,2,-94,-118,86255-1,2,-94,-129,282db4276d3b225d73eb4b7940c97b1cc84acb6ecb22ecab4cbe85b5a531004e,1,0,,,,0-1,2,-94,-121,;29;25;0"}*ö
+HTTP/1.1 201 Created
+content-length17
+x-forwarded-protohttps%
+dateFri, 04 Dec 2020 09:56:41 GMT 
+content-typeapplication/json„
+x-employmenttIf you are reading this, consider a job at BestBuy.com http://www.bestbuy-jobs.com/job-family/all-corporate-careers/-
+strict-transport-securitymax-age=15768000™
+
+set-cookieŠ_abck=C1B6B8847613B54514D6D0C2C9CD749E~0~YAAQRg3orJ1sISR2AQAA5KcuLQXopb6QDf67lY3xDjEaBqvtAeQM/vot/DiRvCJePkmA1dMS/0GofFLt/Ky0WvChL2z21NZGMS9lr1q/JNyLlkIsXNwDM3Bamq5UMGUytFTT1mvW1SMLoNLFlNTItBKrb3P5Yesew+Ve0AjkZnWTD2Qg93Cy8YrcH6XBRhZVwHfwaySfNq22v8Dw6AnhqdJsSdHRrVPnMk1BZAEMi1WbealiqKFl93fAYMqYtEXN7mzzBgu0WEdS65edNJthEpbajH6jo1DWOTPIGk1AlCoMA3/7egb+FWiv3RRKxCh8gJoNqHtkWGlYpeWgGjHZZbF8Fv0O47A=~-1~||1-XYBJQGFPBL-1-10-1000-2||~-1; Domain=.bestbuy.com; Path=/; Expires=Sat, 04 Dec 2021 09:56:41 GMT; Max-Age=31536000; Secure{"success":true}

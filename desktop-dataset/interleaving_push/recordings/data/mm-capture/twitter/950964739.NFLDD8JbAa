@@ -1,0 +1,27 @@
+
+13.226.18.66»"Ú
+POST /v1/cpid HTTP/1.1
+
+:authorityapi2.branch.io
+content-length526v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.361
+content-type!application/x-www-form-urlencoded
+accept*/*
+sec-fetch-site
+cross-site
+sec-fetch-modecors
+sec-fetch-destempty(
+refererhttps://twitter.com/ohohlfeld$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9Žuser_data=%7B%22http_origin%22%3A%22https%3A%2F%2Ftwitter.com%2Fohohlfeld%22%2C%22user_agent%22%3A%22Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F87.0.4280.88%20Safari%2F537.36%22%2C%22language%22%3A%22EN%22%2C%22screen_width%22%3A1366%2C%22screen_height%22%3A768%2C%22http_referrer%22%3A%22%22%2C%22browser_fingerprint_id%22%3A%22863344846619283383%22%2C%22sdk%22%3A%22web%22%2C%22sdk_version%22%3A%222.56.2%22%7D&branch_key=key_live_knJAF6W45vSHVJiP0wn8figpqFePX59K*§
+HTTP/1.1 200 OK 
+content-typeapplication/json
+content-length128 
+access-control-allow-origin*%
+dateFri, 04 Dec 2020 09:54:38 GMTB
+x-branch-request-id+0f50e91f97924fe5aae34b025adefe72-2020120409
+x-cacheMiss from cloudfrontG
+via@1.1 bc779a771e58cc6656070a41635de578.cloudfront.net (CloudFront)
+x-amz-cf-popORD51-C2G
+x-amz-cf-id8BSORkhCrChRnA8xT8wnEJIrstSSgqABl9gkkzJQDiKwn3oOrOkYbQg==€{"user_data":{"cross_platform_id":null,"past_cross_platform_ids":null,"prob_cross_platform_ids":null,"developer_identity":null}}

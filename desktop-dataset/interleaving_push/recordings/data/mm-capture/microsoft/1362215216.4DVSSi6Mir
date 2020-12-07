@@ -1,0 +1,32 @@
+
+64.4.54.254»"ú%
+¨POST /collect/v1?$mscomCookies=true&ext-javascript-msfpc=%27GUID%3Ddd53c55c938e476d8244d27cbb9d1535%26HASH%3Ddd53%26LV%3D202012%26V%3D4%26LU%3D1607075646577%27 HTTP/1.1+
+
+:authorityweb.vortex.data.microsoft.com%
+Hostweb.vortex.data.microsoft.com
+
+Connection
+keep-alive
+Content-Length3859v
+
+User-AgenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36(
+Content-Typetext/plain;charset=UTF-8
+Accept*/*
+Sec-Fetch-Site	same-site
+Sec-Fetch-Modeno-cors
+Sec-Fetch-Destempty+
+Referer https://www.microsoft.com/de-de/$
+Accept-Encodinggzip, deflate, br!
+Accept-Languageen-US,en;q=0.9¸
+Cookie­MUID=091250002E5C650E11755F962FEB644B; check=true; mbox=session#529248c6a0e84bd0a0c03c0fe0592a24#1607077505|PC#529248c6a0e84bd0a0c03c0fe0592a24.35_0#1670320446; mboxEdgeCluster=35; MC1=GUID=dd53c55c938e476d8244d27cbb9d1535&HASH=dd53&LV=202012&V=4&LU=1607075646577; MS0=fbbeecdce9a14043aa230f490dd5b13f“{"ver":"2.1","name":"Ms.Webi.OutgoingRequest","time":"2020-12-04T09:54:05.244Z","os":"Unix","appId":"JS:MeControl","cV":"F38Mv5LyD3gubpJ7.1","data":{"baseData":{"operationName":"meversion","dependencyOperationName":"LoadResource","dependencyName":"MeControl","latencyMs":535,"succeeded":true,"targetUri":"https://mem.gfx.ms/meversion?partner=**&market=**&uhf=**"},"baseType":"Ms.Qos.OutgoingServiceRequest","pageName":"None","impressionGuid":"5b0aa94d-9aea-447b-7a77-a3f2f79c0981","market":"de-DE","customData":"{\"computedDuration\":832.8899999996793,\"perfDuration\":534.9749999995765,\"metaTags\":{\"pgpart\":\"mshomepage\"},\"config\":{\"ver\":\"10.20300.4\",\"mkt\":\"de-DE\",\"ptn\":\"mshomepage\",\"gfx\":\"https://mem.gfx.ms\",\"dbg\":false,\"aad\":true,\"int\":false,\"pxy\":false,\"msTxt\":false,\"rwd\":true,\"telEvs\":\"PageAction, PageView, ContentUpdate, OutgoingRequest, ClientError, PartnerApiCall, TrackedScenario\",\"remAcc\":true,\"main\":\"meBoot\",\"wrapperId\":\"uhf\",\"cdnRegex\":\"^(?:https?:\\\\/\\\\/)?(mem\\\\.gfx\\\\.ms(?!\\\\.)|controls\\\\.account.microsoft?(?:-int|-dev)?(\\\\.com)?(:[0-9]{1,6})|amcdn\\\\.ms(?:ft)?auth\\\\.net(?!\\\\.))\",\"timeoutMs\":30000,\"graph\":false,\"aadUrl\":\"https://myaccount.microsoft.com\",\"msaUrl\":\"https://account.microsoft.com/\"},\"url\":\"https://www.microsoft.com/de-de/\",\"accts\":\"0-0\"}"},"ext":{"javascript":{"ver":"1.1","libVer":"4.3.1","domain":"www.microsoft.com","msfpc":"GUID=dd53c55c938e476d8244d27cbb9d1535&HASH=dd53&LV=202012&V=4&LU=1607075646577","userConsent":false,"consentDetails":"{\"Required\":true,\"Analytics\":true,\"SocialMedia\":true,\"Advertising\":true}"},"app":{"env":"Prod","expId":"EX:sfwaaa,EX:atperf680t2,EX:4722t1,EX:4904t1,EX:5480c,EX:tasmigration010,EX:cartemberpl,EX:5996t1,EX:disablenorefunds,EX:daconvertenabled,EX:6474t1,EX:enablescarlettmetadata"},"user":{"localId":"t:091250002E5C650E11755F962FEB644B"}}}
+{"ver":"2.1","name":"Ms.Webi.OutgoingRequest","time":"2020-12-04T09:54:05.795Z","os":"Unix","appId":"JS:MeControl","cV":"F38Mv5LyD3gubpJ7.4","data":{"baseData":{"operationName":"meBoot.min.js","dependencyOperationName":"DownloadScript","dependencyName":"MeControl","latencyMs":478,"succeeded":true,"targetUri":"https://mem.gfx.ms/scripts/me/MeControl/10.20300.4/de-DE/meBoot.min.js"},"baseType":"Ms.Qos.OutgoingServiceRequest","pageName":"None","impressionGuid":"5b0aa94d-9aea-447b-7a77-a3f2f79c0981","market":"de-DE","customData":"{\"computedDuration\":542.7500000005239,\"perfDuration\":477.7850000000399,\"metaTags\":{\"pgpart\":\"mshomepage\"},\"config\":{\"ver\":\"10.20300.4\",\"mkt\":\"de-DE\",\"ptn\":\"mshomepage\",\"gfx\":\"https://mem.gfx.ms\",\"dbg\":false,\"aad\":true,\"int\":false,\"pxy\":false,\"msTxt\":false,\"rwd\":true,\"telEvs\":\"PageAction, PageView, ContentUpdate, OutgoingRequest, ClientError, PartnerApiCall, TrackedScenario\",\"remAcc\":true,\"main\":\"meBoot\",\"wrapperId\":\"uhf\",\"cdnRegex\":\"^(?:https?:\\\\/\\\\/)?(mem\\\\.gfx\\\\.ms(?!\\\\.)|controls\\\\.account.microsoft?(?:-int|-dev)?(\\\\.com)?(:[0-9]{1,6})|amcdn\\\\.ms(?:ft)?auth\\\\.net(?!\\\\.))\",\"timeoutMs\":30000,\"graph\":false,\"aadUrl\":\"https://myaccount.microsoft.com\",\"msaUrl\":\"https://account.microsoft.com/\"},\"url\":\"https://www.microsoft.com/de-de/\",\"accts\":\"0-0\"}"},"ext":{"javascript":{"ver":"1.1","libVer":"4.3.1","domain":"www.microsoft.com","msfpc":"GUID=dd53c55c938e476d8244d27cbb9d1535&HASH=dd53&LV=202012&V=4&LU=1607075646577","userConsent":false,"consentDetails":"{\"Required\":true,\"Analytics\":true,\"SocialMedia\":true,\"Advertising\":true}"},"app":{"env":"Prod","expId":"EX:sfwaaa,EX:atperf680t2,EX:4722t1,EX:4904t1,EX:5480c,EX:tasmigration010,EX:cartemberpl,EX:5996t1,EX:disablenorefunds,EX:daconvertenabled,EX:6474t1,EX:enablescarlettmetadata"},"user":{"localId":"t:091250002E5C650E11755F962FEB644B"}}}*¯
+HTTP/1.1 200 OK#
+Cache-Controlno-cache, no-store
+Pragmano-cache
+Content-Length57 
+Content-Typeapplication/json
+Expires0!
+X-Content-Type-Optionsnosniff!
+MS-CVEpAU6fO7wU6nUussEr4LIg.0u
+P3PnCP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"%
+DateFri, 04 Dec 2020 09:54:07 GMT9{"ipv":false,"pvm":null,"rej":0,"bln":0,"acc":2,"efi":[]}

@@ -1,0 +1,32 @@
+{
+    "h2o_custom_scheduler":
+    [
+        {
+            "hostname":"www.reddit.com",
+            "index_trigger_path": "/",
+            "content_file": "../../../html/reddit/captured.html",
+            "critical_css_file": "../../../css/reddit/critical.css",
+            "offset_index": 0,
+            "offset_compressed": 0,
+            "critical_push_streams": 0
+        }
+    ],
+    "push_configs":
+    [
+       {
+            "push_host": "www.reddit.com",
+            "push_trigger": "/",
+            "push_resources": [
+		"https://www.redditstatic.com/mweb2x/chunkCSS/app-components-Announcements.efccc7841011feea37f2.css",
+		"https://www.redditstatic.com/mweb2x/chunkCSS/InterstitialXPromoAppSelector.3a0bd33be3a8a77fcc14.css",
+		"https://www.redditstatic.com/mweb2x/runtime~Mweb.4801a4bf96ed1edd26f4.js",
+		"https://www.redditstatic.com/mweb2x/vendors~Mweb.b46e00b911ba148a98c2.js",
+		"https://www.redditstatic.com/mweb2x/Mweb.0e61da4797da85178385.js",
+		"https://www.redditstatic.com/mweb2x/CommentsPage~PostsFromSubreddit~SavedAndHidden~Search~UserActivity.88c55a834aeaeb6ad4a6.js",
+		"https://www.redditstatic.com/mweb2x/PostsFromSubreddit~SubredditAbout.961b15ad11f0818bce9e.js",
+		"https://www.redditstatic.com/mweb2x/PostsFromSubreddit.42e64abdbd0795447407.js"
+
+			            ]
+        }
+    ]
+}

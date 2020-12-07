@@ -1,0 +1,37 @@
+{
+    "h2o_custom_scheduler":
+    [
+        {
+            "hostname":"www.reddit.com",
+            "index_trigger_path": "/",
+            "content_file": "../../../html/reddit/captured.html",
+            "critical_css_file": "../../../css/reddit/critical.css",
+            "offset_index": 0,
+            "offset_compressed": 0,
+            "critical_push_streams": 0
+        }
+    ],
+    "push_configs":
+    [
+       {
+            "push_host": "www.reddit.com",
+            "push_trigger": "/",
+            "push_resources": [
+		"https://www.redditstatic.com/desktop2x/chunkCSS/Trending.88a1eb1d6f3796bacd5d.css",
+		"https://www.redditstatic.com/desktop2x/chunkCSS/reddit-components-TabBadger-Component.d38bb24f355aba3fa2b7.css",
+		"https://www.redditstatic.com/desktop2x/chunkCSS/GovernanceUserPublicPointsDisplay.0238ca08c4e6bb836d1d.css",
+		"https://www.redditstatic.com/desktop2x/chunkCSS/RpanListingUnit.a76fd54b0ef111d07360.css",
+		"https://www.redditstatic.com/desktop2x/chunkCSS/EmailVerificationModals.124ff100f06e1469b71e.css",
+		"https://www.redditstatic.com/desktop2x/chunkCSS/SubredditHovercard.38fab0f8817b7e419ab0.css",
+		"https://www.redditstatic.com/desktop2x/chunkCSS/reddit-components-DiscoveryUnit-CommunityCrossPollination-FocusedVerticals-CommunityDescWithPosts.fc955c948b1a5e401516.css",
+		"https://www.redditstatic.com/desktop2x/chunkCSS/reddit-components-SidebarNativeAd.63bb8d86ce1aa0e8c7a7.css",
+		"https://www.redditstatic.com/desktop2x/runtime~Reddit.b2598cb93ee3f6614f50.js",
+		"https://www.redditstatic.com/desktop2x/vendors~PostCreation~Reddit~StandalonePostPage~reddit-components-ClassicPost~reddit-components-Compa~16c34322.27cbcb0a73746fa97867.js",
+		"https://www.redditstatic.com/desktop2x/vendors~Governance~Reddit~reddit-components-ClassicPost~reddit-components-CompactPost~reddit-compone~c822ce19.11ea53197bd413399b54.js",
+		"https://www.redditstatic.com/desktop2x/vendors~InFeedChaining~PostCreation~Reddit~StandalonePostPage~SubredditPremiumBadgeHovercardTooltip.b598336aec7994e77f27.js",
+		"https://www.redditstatic.com/desktop2x/vendors~Chat~Governance~Reddit.6211323eca970f556521.js",
+		"https://www.redditstatic.com/desktop2x/vendors~Governance~Reddit.6db5fac700b99b0bb26e.js"
+	            ]
+        }
+    ]
+}

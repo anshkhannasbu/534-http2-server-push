@@ -1,0 +1,29 @@
+
+13.226.18.66ª"è
+POST /v1/pageview HTTP/1.1
+
+:authorityapi2.branch.io
+content-length2366v
+
+user-agenthMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.361
+content-type!application/x-www-form-urlencoded
+accept*/*
+sec-fetch-site
+cross-site
+sec-fetch-modecors
+sec-fetch-destempty(
+refererhttps://twitter.com/ohohlfeld$
+accept-encodinggzip, deflate, br!
+accept-languageen-US,en;q=0.9æevent=pageview&metadata=%7B%22url%22%3A%22https%3A%2F%2Ftwitter.com%2Fohohlfeld%22%2C%22user_agent%22%3A%22Mozilla%2F5.0%20(X11%3B%20Linux%20x86_64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F87.0.4280.88%20Safari%2F537.36%22%2C%22language%22%3A%22en-US%22%2C%22screen_width%22%3A1366%2C%22screen_height%22%3A768%2C%22window_device_pixel_ratio%22%3A1%2C%22og_data%22%3A%7B%22%24og_title%22%3A%22Oliver%20Hohlfeld%20(%40ohohlfeld)%20%2F%20Twitter%22%2C%22%24og_description%22%3A%22Professor%2C%20Chair%20of%20Computer%20Networks%2C%20Brandenburg%20University%20of%20Technology%20%40BTU_CS%20Research%20focus%3A%20networking%20%2F%20internet%20measurement%20%2F%20quality%20of%20experience%22%2C%22%24og_image_url%22%3A%22https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F869877180750340097%2FnDc5M2Yj_normal.jpg%22%2C%22%24og_type%22%3A%22profile%22%7D%2C%22hosted_deeplink_data%22%3A%7B%22%24ios_deeplink_path%22%3A%22user%3Fscreen_name%3Dohohlfeld%22%2C%22%24android_deeplink_path%22%3A%22user%3Fscreen_name%3Dohohlfeld%22%2C%22%24deeplink_path%22%3A%22user%3Fscreen_name%3Dohohlfeld%22%7D%2C%22title%22%3A%22Oliver%20Hohlfeld%20(%40ohohlfeld)%20%2F%20Twitter%22%2C%22canonical_url%22%3A%22https%3A%2F%2Ftwitter.com%2Fohohlfeld%22%7D&initial_referrer=&is_iframe=false&user_language=en&open_app=false&has_app_websdk=false&feature=journeys&callback_string=branch_view_callback__1&data=%7B%22%24ios_deeplink_path%22%3A%22user%3Fscreen_name%3Dohohlfeld%22%2C%22%24android_deeplink_path%22%3A%22user%3Fscreen_name%3Dohohlfeld%22%2C%22%24deeplink_path%22%3A%22user%3Fscreen_name%3Dohohlfeld%22%2C%22%24canonical_url%22%3A%22https%3A%2F%2Ftwitter.com%2Fohohlfeld%22%2C%22%24og_title%22%3A%22Oliver%20Hohlfeld%20(%40ohohlfeld)%20%2F%20Twitter%22%2C%22%24og_description%22%3A%22Professor%2C%20Chair%20of%20Computer%20Networks%2C%20Brandenburg%20University%20of%20Technology%20%40BTU_CS%20Research%20focus%3A%20networking%20%2F%20internet%20measurement%20%2F%20quality%20of%20experience%22%2C%22%24og_image_url%22%3A%22https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F869877180750340097%2FnDc5M2Yj_normal.jpg%22%2C%22%24og_video%22%3Anull%2C%22%24og_type%22%3A%22profile%22%7D&source=web-sdk&branch_key=key_live_knJAF6W45vSHVJiP0wn8figpqFePX59K&session_id=863344847745904465&identity_id=863344847738166904&sdk=web2.56.2&browser_fingerprint_id=863344846619283383*ï
+HTTP/1.1 200 OK/
+content-typeapplication/json; charset=utf-8
+content-length28 
+access-control-allow-origin*%
+dateFri, 04 Dec 2020 09:54:38 GMT*
+etag"W/"1c-KRZWpHfIKyIHGKJ9mp9lAyX+vFY"B
+x-branch-request-id+d33456e7e6e74a858018d77e1a348832-2020120409
+x-powered-byExpress
+x-cacheMiss from cloudfrontG
+via@1.1 bc779a771e58cc6656070a41635de578.cloudfront.net (CloudFront)
+x-amz-cf-popORD51-C2G
+x-amz-cf-id8yZCpW2HU9n7SG5weocpDgnA8xNsmIBdAzsIDUO7yRnqsNctsnD14HA=={"branch_view_enabled":true}
